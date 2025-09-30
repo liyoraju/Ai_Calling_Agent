@@ -1,0 +1,7 @@
+twilio
+openai
+pyttsx3
+edge-tts
+openai-whisper
+pydub
+asyncio
